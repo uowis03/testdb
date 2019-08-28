@@ -1,8 +1,11 @@
 {
-  "posts" : {
-    "1": {
-      "name" : "Test",
-      "description": "test description"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "uowis"
   }
 }
